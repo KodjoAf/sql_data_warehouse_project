@@ -12,3 +12,14 @@ The architecture used in this project is the medallion architecture (Bronze, Sil
 2. Silver Layer: This layer involves data cleansing, standardization, and normalization processes to prepare the data for analysis. 
 
 2. Gold Layer: Contains business-ready data modeled in a star schema, suitable for reporting and analytics.
+
+#Project Overview
+This project involves:
+
+. Data Architecture: Designing a modern data warehouse using the Medallion Architecture with Bronze, Silver, and Gold layers.
+
+. ETL Pipelines: Extracting, transforming, and loading data from source systems into the data warehouse.
+
+. Data Modeling: Developing fact and dimension tables optimized for analytical queries.
+
+. Analytics & Reporting: Creating SQL-based reports and dashboards to generate actionable insights.
