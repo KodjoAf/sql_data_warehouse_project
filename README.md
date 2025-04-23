@@ -23,3 +23,32 @@ This project involves:
 **● Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 
 **● Analytics & Reporting**: Creating SQL-based reports and dashboards to generate actionable insights.
+
+# Project Requirements
+**Building the Data Warehouse (Data Engineering)**
+**Objective**
+Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+
+**Specifications**
+**● Data Sources:** Import data from two source systems (ERP and CRM), provided as CSV files.
+
+**● Data Quality:** Clean and resolve data quality issues before analysis.
+
+**● Integration:** Combine both sources into a unified, user-friendly data model optimized for analytical queries.
+
+**● Scope:** Focus exclusively on the latest dataset; historization is not required.
+
+**● Documentation:** Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+
+**BI: Analytics & Reporting (Data Analysis)**
+**Objective**
+Develop SQL-based analytics to deliver detailed insights into:
+
+**● Customer Behavior**
+**● Product Performance**
+**● Sales Trends**
+These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
+For more details, refer to docs/requirements.md.
+
+
