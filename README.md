@@ -13,7 +13,7 @@ The architecture used in this project is the medallion architecture (Bronze, Sil
 
 2. Gold Layer: Contains business-ready data modeled in a star schema, suitable for reporting and analytics.
 
-#Project Overview
+# Project Overview
 This project involves:
 
 . Data Architecture: Designing a modern data warehouse using the Medallion Architecture with Bronze, Silver, and Gold layers.
